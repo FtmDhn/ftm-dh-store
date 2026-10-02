@@ -149,7 +149,7 @@ The returned products are then rendered dynamically inside the page.
 ## Explore the Store
 
 **Live Demo:**
-[Click here to view the project online](YOUR-LIVE-DEMO-LINK)
+[Click here to view the project online](https://ftmdhn.github.io/ftm-dh-store/)
 
 **Preview:** <br>
 
