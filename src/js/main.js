@@ -142,3 +142,8 @@
         }
         else ulPages.classList.add('hide')
     })
+
+    main.addEventListener('click' , ()=>{
+        ulPages.classList.remove('hide')
+        inp.classList.remove('open-search')
+    })
