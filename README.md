@@ -128,6 +128,24 @@ The returned products are then rendered dynamically inside the page.
 * **Smooth Hover & Transition Effects**
 * **Real-Time API Data**
 
+##  Future Ideas
+
+This project is still a work in progress, and there are several features I would like to add as I continue improving my JavaScript skills.
+
+Some of the ideas for future updates include:
+
+- [ ] Shopping Cart — Add products to a cart, update quantities, remove items, and calculate the total price dynamically.
+- [ ] Local Storage — Keep cart items saved even after refreshing or reopening the browser.
+- [ ] Wishlist — Allow users to save their favorite products for later.
+- [ ] User Authentication — Add login and registration functionality.
+- [ ] Checkout Flow — Create a simple checkout experience for completing an order.
+- [ ] Dark Mode — Add a theme switcher for a better browsing experience.
+- [ ] UI Improvements — Continue refining the interface, animations and overall user experience.
+- [ ] React Version — Rebuild the project with React to practice component-based development and state management.
+
+> **The goal is to keep evolving this project as I learn more about building real-world web applications.**
+
+
 ## Built With
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
