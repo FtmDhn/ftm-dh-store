@@ -153,7 +153,7 @@ The returned products are then rendered dynamically inside the page.
 
 **Preview:** <br>
 
-<img width="1536" height="1024" alt="FTM-DH Store Preview" src="YOUR-SCREENSHOT-LINK" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2a37b43b-4efb-4eb0-bd2e-bc5e25b985a8" />
 
 
 ## ⚙️ Getting Started
